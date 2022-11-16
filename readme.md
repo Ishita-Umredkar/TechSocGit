@@ -13,4 +13,5 @@
 ## Members
 
 [Yatharth Gupta](https://github.com/Warlord-K)
+|
 [Ishita Umredkar](https://github.com/Ishita-Umredkar)
